@@ -1,5 +1,5 @@
 # TFG_Analytics
-Este repositorio contiene los archivos complementarios correspondientes al Trabajo de Fin de Grado titulado “Predicción del precio de la electricidad mediante modelos KAN, LSTM y GRU”. El objetivo principal es facilitar la transparencia y reproducibilidad del análisis realizado.
+Este repositorio contiene los archivos complementarios correspondientes al Trabajo de Fin de Grado titulado “Estudio de las redes Kolmogorov–Arnold (KAN) para el modelado de datos secuenciales”. El objetivo principal es facilitar la transparencia y reproducibilidad del análisis realizado.
 
 Contenidos:
 -Codigo_TKAN.ipynb: Script en Python con la implementación del modelo KAN, LSTM y GRU, así como el contraste de hipótesis.
