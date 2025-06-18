@@ -1,4 +1,4 @@
-# TFG_Analytics
+# TFG Analytics
 Este repositorio contiene los archivos complementarios correspondientes al Trabajo de Fin de Grado titulado “Estudio de las redes Kolmogorov–Arnold (KAN) para el modelado de datos secuenciales”. El objetivo principal es facilitar la transparencia y reproducibilidad del análisis realizado.
 
 Contenidos:
